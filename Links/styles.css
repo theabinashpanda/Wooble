@@ -1,0 +1,25 @@
+.first{
+    background-color:rgb(15, 19, 61);
+    height:auto;
+    color: white;
+    padding: 10px;
+}
+.second{
+    height:auto;
+    color: white;
+}
+.fline1{
+    text-align: center;
+    line-height: auto;
+    font-size:40px;
+    font-family:ubuntu;
+}
+.fline2{
+    text-align: center;
+    font-family: ubuntu;
+}
+.fline3{
+    text-align: center;
+    font-family: ubuntu;
+    font-size: 12px;
+}
